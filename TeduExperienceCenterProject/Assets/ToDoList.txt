@@ -1,0 +1,7 @@
+- Make controls for controller
+- Elevation, turning controls
+- Tilt up and down when moving
+- Dynamic audio when bike goes faster
+- Change projectile from carrot to fireball
+- GUI: Altitude, radar showing location of enemies 
+- Implement video capture
