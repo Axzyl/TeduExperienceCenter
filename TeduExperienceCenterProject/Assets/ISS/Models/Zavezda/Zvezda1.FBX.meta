@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 068ac3b83c359c540a6afd718baaaa07
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box447
+    100004: Camera001
+    100006: Camera_006
+    100008: Camera_B001
+    100010: Cylinder313
+    100012: Cylinder348
+    100014: FlashLight001
+    100016: FlashLight003
+    100018: FlashLight003 1
+    100020: Lense003
+    100022: Lense004
+    100024: Lense005
+    100026: Lense006
+    100028: Lense006 1
+    100030: Lense013
+    100032: Lense014
+    100034: Lense015
+    100036: Lense016
+    100038: Lense017
+    100040: Line111
+    100042: Line112
+    100044: Line113
+    100046: Line114
+    100048: Line115
+    100050: Line117
+    100052: Line120
+    100054: Line128
+    100056: Object150
+    100058: Object151
+    100060: Object170
+    100062: Object170 1
+    100064: Object208
+    100066: Object209
+    100068: Object210
+    100070: Object211
+    100072: Object212
+    100074: Object213
+    100076: Object214
+    100078: Object334
+    100080: Window008
+    100082: Window010
+    100084: Window011
+    100086: Window012
+    100088: Window014
+    100090: wires
+    100092: //RootNode
+    400000: Box002
+    400002: Box447
+    400004: Camera001
+    400006: Camera_006
+    400008: Camera_B001
+    400010: Cylinder313
+    400012: Cylinder348
+    400014: FlashLight001
+    400016: FlashLight003
+    400018: FlashLight003 1
+    400020: Lense003
+    400022: Lense004
+    400024: Lense005
+    400026: Lense006
+    400028: Lense006 1
+    400030: Lense013
+    400032: Lense014
+    400034: Lense015
+    400036: Lense016
+    400038: Lense017
+    400040: Line111
+    400042: Line112
+    400044: Line113
+    400046: Line114
+    400048: Line115
+    400050: Line117
+    400052: Line120
+    400054: Line128
+    400056: Object150
+    400058: Object151
+    400060: Object170
+    400062: Object170 1
+    400064: Object208
+    400066: Object209
+    400068: Object210
+    400070: Object211
+    400072: Object212
+    400074: Object213
+    400076: Object214
+    400078: Object334
+    400080: Window008
+    400082: Window010
+    400084: Window011
+    400086: Window012
+    400088: Window014
+    400090: wires
+    400092: //RootNode
+    2300000: Box002
+    2300002: Box447
+    2300004: Camera001
+    2300006: Camera_006
+    2300008: Camera_B001
+    2300010: Cylinder313
+    2300012: Cylinder348
+    2300014: FlashLight001
+    2300016: FlashLight003
+    2300018: FlashLight003 1
+    2300020: Lense003
+    2300022: Lense004
+    2300024: Lense005
+    2300026: Lense006
+    2300028: Lense006 1
+    2300030: Lense013
+    2300032: Lense014
+    2300034: Lense015
+    2300036: Lense016
+    2300038: Lense017
+    2300040: Line111
+    2300042: Line112
+    2300044: Line113
+    2300046: Line114
+    2300048: Line115
+    2300050: Line117
+    2300052: Line120
+    2300054: Line128
+    2300056: Object150
+    2300058: Object151
+    2300060: Object170
+    2300062: Object170 1
+    2300064: Object208
+    2300066: Object209
+    2300068: Object210
+    2300070: Object211
+    2300072: Object212
+    2300074: Object213
+    2300076: Object214
+    2300078: Object334
+    2300080: Window008
+    2300082: Window010
+    2300084: Window011
+    2300086: Window012
+    2300088: Window014
+    3300000: Box002
+    3300002: Box447
+    3300004: Camera001
+    3300006: Camera_006
+    3300008: Camera_B001
+    3300010: Cylinder313
+    3300012: Cylinder348
+    3300014: FlashLight001
+    3300016: FlashLight003
+    3300018: FlashLight003 1
+    3300020: Lense003
+    3300022: Lense004
+    3300024: Lense005
+    3300026: Lense006
+    3300028: Lense006 1
+    3300030: Lense013
+    3300032: Lense014
+    3300034: Lense015
+    3300036: Lense016
+    3300038: Lense017
+    3300040: Line111
+    3300042: Line112
+    3300044: Line113
+    3300046: Line114
+    3300048: Line115
+    3300050: Line117
+    3300052: Line120
+    3300054: Line128
+    3300056: Object150
+    3300058: Object151
+    3300060: Object170
+    3300062: Object170 1
+    3300064: Object208
+    3300066: Object209
+    3300068: Object210
+    3300070: Object211
+    3300072: Object212
+    3300074: Object213
+    3300076: Object214
+    3300078: Object334
+    3300080: Window008
+    3300082: Window010
+    3300084: Window011
+    3300086: Window012
+    3300088: Window014
+    4300000: Object211
+    4300002: Object212
+    4300004: Object213
+    4300006: Object208
+    4300008: Object209
+    4300010: Object214
+    4300012: Object210
+    4300014: Lense014
+    4300016: Object150
+    4300018: Lense006
+    4300020: Lense006
+    4300022: Object170
+    4300024: Object151
+    4300026: Object334
+    4300028: Object170
+    4300030: Lense017
+    4300032: Lense005
+    4300034: Lense016
+    4300036: Lense015
+    4300038: Lense003
+    4300040: Camera_006
+    4300042: Camera_B001
+    4300044: Lense013
+    4300046: Box002
+    4300048: FlashLight001
+    4300050: Line111
+    4300052: Line115
+    4300054: Line113
+    4300056: Line128
+    4300058: Line120
+    4300060: Line117
+    4300062: Line112
+    4300064: Line114
+    4300066: FlashLight003
+    4300068: FlashLight003
+    4300070: Lense004
+    4300072: Camera001
+    4300074: Cylinder348
+    4300076: Cylinder313
+    4300078: Box447
+    4300080: Window008
+    4300082: Window010
+    4300084: Window011
+    4300086: Window012
+    4300088: Window014
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: df919b1fa59d1544f9dd7835b1aa90b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: f9ee0d4fb02277341beed7ca7766d440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kibo
+    second: {fileID: 2100000, guid: dbb01cbe5d047434f9f73c5825fe16d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #202'
+    second: {fileID: 2100000, guid: f9ee0d4fb02277341beed7ca7766d440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: df919b1fa59d1544f9dd7835b1aa90b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 09e6bc4da6b6beb4f813d236e40e3a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #417'
+    second: {fileID: 2100000, guid: f9ee0d4fb02277341beed7ca7766d440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #421'
+    second: {fileID: 2100000, guid: 09e6bc4da6b6beb4f813d236e40e3a55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #422'
+    second: {fileID: 2100000, guid: f9ee0d4fb02277341beed7ca7766d440, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
